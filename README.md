@@ -1,6 +1,6 @@
 # equals_app
 
-A new Flutter project.
+Official Source Code for the Equals App
 
 ## Getting Started
 
